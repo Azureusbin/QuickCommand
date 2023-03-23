@@ -1,4 +1,6 @@
-﻿using UnrealBuildTool;
+﻿// Copyright © 2023 AzureuBin. All rights reserved.
+
+using UnrealBuildTool;
 
 public class QuickCommandCore : ModuleRules
 {
