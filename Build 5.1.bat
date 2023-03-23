@@ -1,1 +1,1 @@
-"D:\Epic Games\UE_5.1\Engine\Build\BatchFiles\RunUAT.bat" BuildPlugin -Plugin="E:\PluginWorkPlace\QuickCommand\QuickCommand.uplugin" -Package="E:\PluginWorkPlace\QuickCommand_Output" -Rocket -TargetPlatforms=Win64
+"A:\Program Files\Epic Games\UE_5.1\Engine\Build\BatchFiles\RunUAT.bat" BuildPlugin -Plugin="A:\UE_Projects\QuickCommand\QuickCommand.uplugin" -Package="A:\UE_Projects\QuickCommand_Output" -Rocket -TargetPlatforms=Win64
