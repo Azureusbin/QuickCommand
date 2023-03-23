@@ -43,7 +43,7 @@ TSharedRef< FSlateStyleSet > FQuickCommandStyle::Create()
 	TSharedRef< FSlateStyleSet > Style = MakeShareable(new FSlateStyleSet("QuickCommandStyle"));
 	Style->SetContentRoot(IPluginManager::Get().FindPlugin("QuickCommand")->GetBaseDir() / TEXT("Resources"));
 
-	Style->Set("QuickCommand.OpenQCMDPanel", new IMAGE_BRUSH_SVG(TEXT("PlaceholderButtonIcon"), Icon20x20));
+	Style->Set("QuickCommand.OpenQCMDPanel", new IMAGE_BRUSH_SVG(TEXT("PlaceholderButtonIcon2"), Icon20x20));
 	return Style;
 }
 
